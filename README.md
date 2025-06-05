@@ -75,12 +75,6 @@ Eu costumo usar uma estrutura parecida em vários projetos no meu trabalho, que 
 
 ---
 
-## Imagens do App
-
-Com certeza! Aqui está uma versão mais organizada e visualmente agradável para o seu README:
-
----
-
 ## 🖼️ Imagens do App
 
 ### 🏠 Tela Inicial (`InicialPage`)
@@ -122,10 +116,6 @@ Com certeza! Aqui está uma versão mais organizada e visualmente agradável par
 ### 📋 Tarefas Adicionais
 
 ![Tarefas Extras](image-7.png)
-
----
-
-Se quiser, posso adaptar isso com emojis diferentes ou dividir em colunas. Quer em grid ou manter assim em blocos verticais?
 
 ---
 
