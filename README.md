@@ -84,7 +84,7 @@ Caso queira rodar o projeto em sua máquina com Flutter:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/GabrielG777/MySchedule.git
    ```
 
 2. Navegue até a pasta do projeto:
