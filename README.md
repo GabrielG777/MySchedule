@@ -67,12 +67,43 @@ Eu costumo usar uma estrutura parecida em vários projetos no meu trabalho, que 
 
 ---
 
-## Como rodar o projeto
+## 🚀 Como rodar o projeto
 
-1. Clone o repositório
-2. Rode `flutter pub get` para instalar as dependências
-3. Execute `flutter run` para rodar no dispositivo ou emulador
+### ▶️ Acessar pela Web (GitHub Pages)
 
+Você pode testar o app diretamente pelo navegador, sem precisar instalar nada:
+
+👉 [Clique aqui para acessar o app online](https://gabrielg777.github.io/MySchedule/)
+
+---
+
+### 💻 Rodar localmente
+
+Caso queira rodar o projeto em sua máquina com Flutter:
+
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   ```
+
+2. Navegue até a pasta do projeto:
+
+   ```bash
+   cd nome-do-repositorio
+   ```
+
+3. Instale as dependências:
+
+   ```bash
+   flutter pub get
+   ```
+
+4. Rode o app:
+
+   ```bash
+   flutter run
+   ```
 ---
 
 ## 🖼️ Imagens do App
