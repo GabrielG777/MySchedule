@@ -77,25 +77,55 @@ Eu costumo usar uma estrutura parecida em vários projetos no meu trabalho, que 
 
 ## Imagens do App
 
-* InicialPage();
-![alt text](image.png)
+Com certeza! Aqui está uma versão mais organizada e visualmente agradável para o seu README:
 
-* DashBoardPage();
-![alt text](image-1.png)
-Drawer
-![alt text](image-2.png)
+---
 
-* AddTask();
-![alt text](image-3.png)
-SelectTime
-![alt text](image-4.png)
+## 🖼️ Imagens do App
 
-modo Dark com tarefa
-![alt text](image-5.png)
-descrição - PopUp
-![alt text](image-6.png)
-algumas tarefas a mais
-![alt text](image-7.png)
+### 🏠 Tela Inicial (`InicialPage`)
+
+![InicialPage](image.png)
+
+---
+
+### 📊 Dashboard (`DashBoardPage`)
+
+![Dashboard](image-1.png)
+
+#### 📂 Drawer
+
+![Drawer](image-2.png)
+
+---
+
+### ➕ Adicionar Tarefa (`AddTask`)
+
+![AddTask](image-3.png)
+
+#### 🕒 Selecionar Horário (`SelectTime`)
+
+![SelectTime](image-4.png)
+
+---
+
+### 🌙 Modo Escuro com Tarefa
+
+![Modo Escuro](image-5.png)
+
+#### 📝 Pop-up de Descrição
+
+![Pop-up](image-6.png)
+
+---
+
+### 📋 Tarefas Adicionais
+
+![Tarefas Extras](image-7.png)
+
+---
+
+Se quiser, posso adaptar isso com emojis diferentes ou dividir em colunas. Quer em grid ou manter assim em blocos verticais?
 
 ---
 
